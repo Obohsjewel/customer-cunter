@@ -1,0 +1,67 @@
+body {
+    background-image: url("https://thumbs.dreamstime.com/b/customer-service-counter-located-east-point-city-shopping-mall-tseung-kwan-o-hong-kong-35814895.jpg");
+    background-size:100% 100%;
+    background-attachment: fixed;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.holder{
+    border: 5px solid peru;
+    border-radius: 8px;
+}
+
+.noor {
+    font-size: 30px;
+    color:blanchedalmond ; 
+    margin-bottom: 30px;
+    text-shadow:2px -2px 4px red
+}
+
+.customer {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color:lightgoldenrodyellow;
+    text-shadow: 2px 5px 9px maroon;  
+    
+
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color:sandybrown;
+    
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: coral;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    box-shadow: -3px -3px 2px whitesmoke;
+}
+
+#increment-btn {
+    background: darkred;
+    margin-bottom: 15px;
+    color: bisque;
+}
+
+#save-btn {
+    background:green;
+}
+
+#save-el{
+    color: blue;
+    text-shadow: 2px 5px 9px blueviolet; 
+}
